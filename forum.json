@@ -1,0 +1,15 @@
+[
+  {
+    "id": "post_1774171700302",
+    "title": "Test",
+    "content": "Test",
+    "tag": "分享",
+    "author": "Ruiweihan",
+    "authorUid": "000001",
+    "createdAt": "2026-03-22T09:28:20.302Z",
+    "likes": 0,
+    "likedBy": [],
+    "comments": [],
+    "pinned": false
+  }
+]
