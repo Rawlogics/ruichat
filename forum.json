@@ -9,7 +9,29 @@
     "createdAt": "2026-03-22T09:28:20.302Z",
     "likes": 0,
     "likedBy": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "comment_1774511336713",
+        "author": "Ruiweihan",
+        "authorUid": "000001",
+        "content": "测试",
+        "createdAt": "2026-03-26T07:48:56.713Z"
+      },
+      {
+        "id": "comment_1774511338369",
+        "author": "Ruiweihan",
+        "authorUid": "000001",
+        "content": "测试",
+        "createdAt": "2026-03-26T07:48:58.369Z"
+      },
+      {
+        "id": "comment_1774511338705",
+        "author": "Ruiweihan",
+        "authorUid": "000001",
+        "content": "测试",
+        "createdAt": "2026-03-26T07:48:58.705Z"
+      }
+    ],
     "pinned": false
   }
 ]
