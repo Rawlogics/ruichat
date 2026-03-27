@@ -30,6 +30,13 @@
         "authorUid": "000001",
         "content": "测试",
         "createdAt": "2026-03-26T07:48:58.705Z"
+      },
+      {
+        "id": "comment_1774617743047",
+        "author": "ruitest",
+        "authorUid": "000004",
+        "content": "有意思",
+        "createdAt": "2026-03-27T13:22:23.047Z"
       }
     ],
     "pinned": false
