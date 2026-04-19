@@ -7,6 +7,16 @@
       "time": "2026-04-19T05:49:41.763Z",
       "avatar": "https://raw.githubusercontent.com/RuiweihanHub/ruiuser/main/avatars/000001_1776476390291.png",
       "type": "text"
+    },
+    {
+      "user": "Ruiweihan",
+      "uid": "000001",
+      "text": "",
+      "time": "2026-04-19T05:55:11.522Z",
+      "avatar": "https://raw.githubusercontent.com/RuiweihanHub/ruiuser/main/avatars/000001_1776476390291.png",
+      "type": "voice",
+      "url": "https://raw.githubusercontent.com/RuiweihanHub/ruichat/main/uploads/000001_1776578108838_voice.webm",
+      "duration": 2
     }
   ]
 }
