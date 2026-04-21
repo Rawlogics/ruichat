@@ -43,16 +43,6 @@
       "type": "file",
       "url": "https://raw.githubusercontent.com/RuiweihanHub/ruichat/main/uploads/000001_1776569568223_______.docx",
       "fileName": "用户声明内容.docx"
-    },
-    {
-      "user": "Ruiweihan",
-      "uid": "000001",
-      "text": "",
-      "time": "2026-04-19T04:06:42.554Z",
-      "avatar": "https://raw.githubusercontent.com/RuiweihanHub/ruiuser/main/avatars/000001_1776476390291.png",
-      "type": "voice",
-      "url": "https://raw.githubusercontent.com/RuiweihanHub/ruichat/main/uploads/000001_1776571599997_voice.webm",
-      "duration": 3
     }
   ]
 }
