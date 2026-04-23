@@ -42,7 +42,14 @@
       "avatar": "https://raw.githubusercontent.com/RuiweihanHub/ruiuser/main/avatars/000001_1776594694854.jpg",
       "type": "voice",
       "url": "https://raw.githubusercontent.com/RuiweihanHub/ruichat/main/uploads/000001_1776931574998_voice.webm",
-      "duration": 4
+      "duration": 4,
+      "reactions": [
+        {
+          "uid": "000001",
+          "user": "Ruiweihan",
+          "emoji": "👍"
+        }
+      ]
     }
   ]
 }
