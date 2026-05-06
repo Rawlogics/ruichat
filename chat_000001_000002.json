@@ -90,6 +90,16 @@
       "type": "transfer",
       "amount": 10000,
       "note": "转账"
+    },
+    {
+      "user": "Ruiweihan",
+      "uid": "000001",
+      "text": "",
+      "time": "2026-05-06T00:46:54.763Z",
+      "avatar": "https://raw.githubusercontent.com/RuiweihanHub/ruiuser/main/avatars/000001_1776594694854.jpg",
+      "type": "voice",
+      "url": "https://raw.githubusercontent.com/RuiweihanHub/ruichat/main/uploads/000001_1778028407901_voice.webm",
+      "duration": 61
     }
   ]
 }
