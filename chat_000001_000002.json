@@ -138,6 +138,16 @@
       "type": "nudge",
       "nudgeFrom": "Ruiweihan",
       "nudgeTo": "Xvjiarui"
+    },
+    {
+      "user": "Ruiweihan",
+      "uid": "000001",
+      "text": "",
+      "time": "2026-06-03T00:54:48.301Z",
+      "avatar": "https://raw.githubusercontent.com/RuiweihanHub/ruiuser/main/avatars/000001_1776594694854.jpg",
+      "type": "nudge",
+      "nudgeFrom": "Ruiweihan",
+      "nudgeTo": "Xvjiarui"
     }
   ]
 }
