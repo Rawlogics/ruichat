@@ -14,7 +14,14 @@
       "text": "💩",
       "time": "2026-05-06T00:43:15.513Z",
       "avatar": "https://raw.githubusercontent.com/RuiweihanHub/ruiuser/main/avatars/000001_1776594694854.jpg",
-      "type": "text"
+      "type": "text",
+      "reactions": [
+        {
+          "uid": "000012",
+          "user": "github_user_pfo0tr",
+          "emoji": "❤️"
+        }
+      ]
     },
     {
       "user": "Ruiweihan",
