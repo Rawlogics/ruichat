@@ -41,6 +41,14 @@
       "type": "nudge",
       "nudgeFrom": "github_user_pfo0tr",
       "nudgeTo": "公共群聊"
+    },
+    {
+      "user": "github_user_pfo0tr",
+      "uid": "000012",
+      "text": "我来自上海浦西",
+      "time": "2026-06-07T05:08:56.133Z",
+      "avatar": null,
+      "type": "text"
     }
   ]
 }
